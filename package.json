@@ -11,7 +11,7 @@
     "bootstrap-v4": "npm:bootstrap@4.5.0",
     "dompurify": "2.2.6",
     "js-cookie": "2.2.1",
-    "mapstore": "git+https://github.com/geosolutions-it/MapStore2.git#b5984c27d642b15ac7295ce7327b662b27443c74",
+    "mapstore": "git+https://github.com/geosolutions-it/MapStore2.git#c682a69c2b92fa08d56974d13529669f87034c89",
     "react-bootstrap-v1": "npm:react-bootstrap@1.3.0",
     "redux-devtools": "^3.7.0",
     "redux-devtools-dock-monitor": "^1.2.0",
