@@ -42,8 +42,8 @@
   },
   "geonode": {
     "devServer": {
-      "host": "localhost",
-      "proxyTargetHost": "localhost:80",
+      "host": "epm.local.draxis.gr",
+      "proxyTargetHost": "epm.local.draxis.gr",
       "protocol": "http"
     }
   }
